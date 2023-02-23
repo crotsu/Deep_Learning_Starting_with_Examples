@@ -48,4 +48,4 @@ AIの実社会への導入に伴い，DXが進みつつあります。その一�
    1. 行列・ベクトル表現でニューラルネットワークを考える
    1. デモ（行列・ベクトル表現）
    1. フレームワークを使う(TensorFlow + Keras)
-1. 再び，Deep Learning！
+1. [再び，Deep Learning！](https://github.com/crotsu/Deep_Learning_Starting_with_Examples/blob/main/chap5_colab/chap5_document.ipynb)
