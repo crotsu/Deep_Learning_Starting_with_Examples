@@ -8,6 +8,6 @@ print(C)
 
 print()
 
-C = np.dot(A.T,B)
+D = np.dot(A.T,B)
 print("A^T x B=")
-print(C)
+print(D)
