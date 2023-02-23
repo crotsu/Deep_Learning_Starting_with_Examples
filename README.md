@@ -31,7 +31,7 @@ AIの実社会への導入に伴い，DXが進みつつあります。その一�
 
 ## 目次
 
-1. とにかくDeep Learningを体験！(https://github.com/crotsu/Deep_Learning_Starting_with_Examples/blob/main/chap1_colab/chap1_document.ipynb)
+1. [とにかくDeep Learningを体験！](https://github.com/crotsu/Deep_Learning_Starting_with_Examples/blob/main/chap1_colab/chap1_document.ipynb)
 1. Python超高速入門
    1. Python基礎
    1. Numpy基礎
