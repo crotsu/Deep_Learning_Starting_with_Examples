@@ -36,7 +36,7 @@ AIの実社会への導入に伴い，DXが進みつつあります。その一�
    1. [Python基礎](https://github.com/crotsu/Deep_Learning_Starting_with_Examples/blob/main/chap2_python/chap2_1_python.ipynb)
    1. [Numpy基礎](https://github.com/crotsu/Deep_Learning_Starting_with_Examples/blob/main/chap2_python/chap2_2_numpy.ipynb)
 1.  [最急降下法を理解しよう](https://github.com/crotsu/Deep_Learning_Starting_with_Examples/blob/main/chap3_gdm/chap3_gdm.ipynb)
-1. [ニューラルネットワークの基礎理論](https://github.com/crotsu/Deep_Learning_Starting_with_Examples/blob/main/chap4_NeuralNetwork/NeuralNetwork_document.ipynb))
+1. [ニューラルネットワークの基礎理論](https://github.com/crotsu/Deep_Learning_Starting_with_Examples/blob/main/chap4_NeuralNetwork/NeuralNetwork_document.ipynb)
    1. はじめに
    1. 基本構造
    1. 学習の目的
