@@ -31,7 +31,7 @@ AIの実社会への導入に伴い，DXが進みつつあります。その一�
 
 ## 目次
 
-1. [とにかくDeep Learningを体験！](https://github.com/crotsu/Deep_Learning_Starting_with_Examples/blob/main/chap1_colab/chap1_document.ipynb)
+1. [とにかくDeep Learningを体験！](https://github.com/crotsu/Deep_Learning_Starting_with_Examples/blob/main/chap1_deeplearning/chap1_document.ipynb)
 1. Python超高速入門
    1. [Python基礎](https://github.com/crotsu/Deep_Learning_Starting_with_Examples/blob/main/chap2_python/chap2_1_python.ipynb)
    1. [Numpy基礎](https://github.com/crotsu/Deep_Learning_Starting_with_Examples/blob/main/chap2_python/chap2_2_numpy.ipynb)
@@ -46,4 +46,4 @@ AIの実社会への導入に伴い，DXが進みつつあります。その一�
    1. バックプロパゲーション法
    1. デモ（バックプロパゲーション法）
    1. 行列・ベクトル表現でニューラルネットワークを考える
-1. [再び，Deep Learning！](https://github.com/crotsu/Deep_Learning_Starting_with_Examples/blob/main/chap5_colab/chap5_document.ipynb)
+1. [再び，Deep Learning！](https://github.com/crotsu/Deep_Learning_Starting_with_Examples/blob/main/chap5_deeplearning/chap5_document.ipynb)
