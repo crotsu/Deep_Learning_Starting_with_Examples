@@ -34,7 +34,7 @@ AIの実社会への導入に伴い，DXが進みつつあります。その一�
 ## 目次
 0. [Google Colaboratoryの動作確認](https://github.com/crotsu/Deep_Learning_Starting_with_Examples/blob/main/chap0_colab/chap0_document.ipynb)
 1. [とにかくDeep Learningを体験！](https://colab.research.google.com/github/crotsu/Deep_Learning_Starting_with_Examples/blob/main/chap1_deeplearning/chap1_document.ipynb)
-2. [Python超高速入門](https://colab.research.google.com/github/crotsu/Deep_Learning_Starting_with_Examples/blob/main/chap2_python/chap2_1_python.ipynb)
+2. [Python超高速入門](https://colab.research.google.com/github/crotsu/Deep_Learning_Starting_with_Examples/blob/main/chap2_python/chap2_python.ipynb)
 3.  [最急降下法を理解しよう](https://colab.research.google.com/github/crotsu/Deep_Learning_Starting_with_Examples/blob/main/chap3_gdm/chap3_gdm.ipynb)
 4. [ニューラルネットワークの基礎理論](https://colab.research.google.com/github/crotsu/Deep_Learning_Starting_with_Examples/blob/main/chap4_NeuralNetwork/NeuralNetwork_document.ipynb)
 5. [再び，Deep Learning！](https://colab.research.google.com/github/crotsu/Deep_Learning_Starting_with_Examples/blob/main/chap5_deeplearning/chap5_document.ipynb)
