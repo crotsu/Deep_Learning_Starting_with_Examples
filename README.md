@@ -14,7 +14,7 @@ AIの実社会への導入に伴い，DXが進みつつあります。その一�
 - 本セミナーでは，Google Colaboratory上で実習を行います．  
 - 当日までにGoogleアカウントのご準備をお願いいたします．  
 - スムーズに聴講できるように事前に[Google Colaboratoryの動作確認](https://github.com/crotsu/Deep_Learning_Starting_with_Examples/blob/main/chap0_colab/chap0_colab.ipynb)をお願いします．
--お手元のパソコンで，Zoomの画面と作業用のブラウザをそれぞれ半分程度の大きさにして表示すると演習しやすいと思います.
+- お手元のパソコンで，Zoomの画面と作業用のブラウザをそれぞれ半分程度の大きさにして表示すると演習しやすいと思います.
 - 講座のリンクは以下になります． このページ下部の目次にしたがって説明をしていきます．
 
 ## 聴講される方へ (追加情報)
